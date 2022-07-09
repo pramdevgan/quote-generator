@@ -1,2 +1,2 @@
 # quote-generator
-[quote generator](https://pramdevgan.github.io/quote-generator{:target="_blank"})
+[Click here to view this project](https://pramdevgan.github.io/quote-generator/)
